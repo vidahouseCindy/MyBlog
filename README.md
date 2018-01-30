@@ -1,6 +1,8 @@
 # MyBlog
 记录自己学习的过程，鞭策自己不断进步，可以和其他人讨论交流的一个途径
 
+
+
 #搭建博客项目过程中的问题
 
 1.在根据教程上传本地项目到远程服务器（github）上时，出现类似"error setting certificate verify locations"系统证书的错误，根据这篇博客
